@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Certificiations"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,53 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "New York City Data Science Academy"
+  organization_url = "https://nycdatascience.com/"
+  title = "Immersive Data Science Bootcamp"
+  url = "https://nycdatascience.com/data-science-bootcamp/"
+  certificate_url = ""
+  date_start = "2016-04-11"
+  date_end = "2016-07-11"
+  description = "A highly immersive Data Science program involving data strategy and hands on expertise on machine learning, big data, advanced statistics and analytics, R and Python development, visualization, Unix, SQL, Git/GitHub"
+
+[[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  title = "Introduction to Clinical Data Science"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/85GYVQZLRK93"
+  date_start = ""
+  date_end = "2019-08-12"
   description = ""
 
+
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Mathematics for Machine Learning: Multivariate Calculus"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/48LLBM79D3UK"
+  date_start = ""
+  date_end = "2019-03-12"
+  description = ""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Mathematics for Machine Learning: Linear Algebra"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/V4G7Z3QZ7Z83"
+  date_start = ""
+  date_end = "2018-08-24"
   description = ""
-
+  
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Programming Foundations with JavaScript, HTML and CSS (with Honors)"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/CEXVZW87N6BZ"
+  date_start = ""
+  date_end = "2017-05-16"
+  description = ""
 +++
