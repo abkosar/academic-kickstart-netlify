@@ -31,5 +31,17 @@ subtitle = ""
   icon_pack = "fab"
   name = "Python"
   description = ""
+  
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
+  description = ""
+  
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  description = ""
 
 +++
